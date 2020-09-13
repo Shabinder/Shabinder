@@ -30,12 +30,9 @@
 <p>
   🔗 <b>Contact Me At</b>: <br/>
   <b><a href="mailto:dev.shabinder@gmail.com">Email: </>dev.shabinder@gmail.com .</a></p><br/>
-
+<!-- 
 <details>
-  <summary>Wanna Know More?</summary><br/>
+  <summary>Wanna Know More?</summary><br/> -->
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
-</details>
+<!-- </details> -->
