@@ -33,8 +33,6 @@
 
 <details>
   <summary>Wanna Know More?</summary><br/>
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 </details>
