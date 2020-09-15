@@ -34,5 +34,11 @@
 <details>
   <summary>Wanna Know More?</summary><br/> -->
 <!--START_SECTION:waka-->
+```text
+Kotlin       4 hrs 18 mins   ████████████▒░░░░░░░░░░░░   48.80 % 
+XML          4 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.91 % 
+Groovy       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+```
 <!--END_SECTION:waka-->
 <!-- </details> -->
