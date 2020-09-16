@@ -32,12 +32,11 @@
   <b><a href="mailto:dev.shabinder@gmail.com">Email: </>dev.shabinder@gmail.com .</a></p><br/>
   
   <!--START_SECTION:waka-->
-  
-  ```text
-  Kotlin       4 hrs 18 mins   ████████████▒░░░░░░░░░░░░   48.80 % 
-  XML          4 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.91 % 
-  Groovy       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-  Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-  ```
-  
-  <!--END_SECTION:waka-->
+```text
+Kotlin     6 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.55 % 
+XML        4 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 % 
+HTML       1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Groovy     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+```
+<!--END_SECTION:waka-->
