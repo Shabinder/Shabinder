@@ -36,10 +36,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-Git Config   11 mins         ███████████▒░░░░░░░░░░░░░   45.64 % 
-Kotlin       9 mins          █████████░░░░░░░░░░░░░░░░   35.53 % 
-Groovy       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-XML          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Properties   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
