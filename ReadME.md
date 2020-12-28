@@ -36,6 +36,7 @@
   
   <!--START_SECTION:waka-->
 ```text
-Kotlin   3 mins          █████████████████████████   100.00 % 
+Kotlin   19 mins         █████████████████░░░░░░░░   68.57 % 
+Groovy   8 mins          ████████░░░░░░░░░░░░░░░░░   31.43 % 
 ```
 <!--END_SECTION:waka-->
