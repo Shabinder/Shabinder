@@ -24,6 +24,7 @@
   <a href="https://instagram.com/mr.shabinder"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shabinder"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+</br>
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
   🧔 My name is <b>Shabinder</b>. I am a  19 years old Seft-Taught Developer.<br/>
