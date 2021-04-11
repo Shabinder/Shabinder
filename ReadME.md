@@ -37,6 +37,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-Kotlin   1 min           █████████████████████████   99.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
