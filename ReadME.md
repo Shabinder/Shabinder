@@ -37,7 +37,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-Kotlin   1 hr 56 mins    █████████████████████▓░░░   87.18 % 
-Other    16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
