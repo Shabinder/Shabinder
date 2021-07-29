@@ -37,6 +37,7 @@
   
   <!--START_SECTION:waka-->
 ```text
-Kotlin   1 hr 7 mins     █████████████████████████   99.84 % 
+Kotlin   3 hrs 11 mins   ████████████████████████▒   97.86 % 
+JSON     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
