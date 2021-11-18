@@ -37,8 +37,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-Kotlin                 3 hrs 1 min     ███████████████████████▓░   94.45 % 
-Java                   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Groovy                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
