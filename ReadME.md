@@ -37,6 +37,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin   22 mins         █████████████████████████   99.55 % 
 ```
 <!--END_SECTION:waka-->
