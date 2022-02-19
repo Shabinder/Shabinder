@@ -37,12 +37,10 @@
   
   <!--START_SECTION:waka-->
 ```text
-Total: 9 hrs 46 mins
+Total: 3 hrs 33 mins
 
-Kotlin       6 hrs 47 mins   █████████████████▒░░░░░░░   69.45 % 
-Java         2 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.84 % 
-Groovy       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Kotlin       3 hrs 26 mins   ████████████████████████░   96.61 % 
+Java         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
