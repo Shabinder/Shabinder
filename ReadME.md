@@ -37,8 +37,6 @@
   
   <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 33 mins
-
 Kotlin       3 hrs 26 mins   ████████████████████████░   96.61 % 
 Java         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
