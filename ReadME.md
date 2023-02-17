@@ -38,9 +38,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-Swift               8 hrs 28 mins   ████████████████████████▒   97.24 %
+Swift               8 hrs 20 mins   ████████████████████████▒   97.22 %
 Cocoa               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-XCodeProjectFiles   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+XCodeProjectFiles   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Objective-C         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 plist               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ObjectiveC          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
