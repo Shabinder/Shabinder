@@ -38,10 +38,10 @@
   <!--START_SECTION:waka-->
 
 ```text
-Swift                    2 hrs 19 mins   ████████████████████████▒   97.21 %
-XCodeProjectFiles        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-AUTO_DETECTED            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Objective-C              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Swift                    2 hrs 18 mins   ████████████████████████▒   97.19 %
+XCodeProjectFiles        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+AUTO_DETECTED            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Objective-C              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 XML                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Cocoa                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
