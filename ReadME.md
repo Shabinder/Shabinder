@@ -38,12 +38,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-Swift            3 mins          █████████████████▓░░░░░░░   70.45 %
-AUTO_DETECTED    0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-XML              0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-plist            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
