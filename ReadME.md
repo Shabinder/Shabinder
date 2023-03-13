@@ -38,7 +38,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Swift               1 hr 3 mins     ████████████████████▓░░░░   83.03 %
+Text                10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+GitIgnore file      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+XCodeProjectFiles   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+XML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+plist               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
