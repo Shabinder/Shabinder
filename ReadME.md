@@ -27,8 +27,8 @@
 </br>
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
-  🧔 My name is <b>Shabinder</b>. I am a 20 years old Seft-Taught Developer.<br/>
-  📚 I am in junior year (i.e., 3rd year) of my Bachelor's Degree(B.Tech CSE).<br/>
+  🧔 My name is <b>Shabinder</b>. I am a 22 years old Seft-Taught Developer.<br/>
+  📚 I am in senior year of my Bachelor's Degree(B.Tech CSE).<br/>
   💻 I am a <b>Native Android Developer</b>, Proficient in <b>Kotlin</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
