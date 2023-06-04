@@ -38,11 +38,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 17 hrs 51 mins  ██████████████████████▒░░   89.55 %
-Dart                   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-TOML                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-SqlDelight             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-SqlDelight Migration   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Kotlin                 13 hrs 54 mins  ██████████████████████░░░   87.63 %
+Dart                   1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+SqlDelight             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+SqlDelight Migration   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Groovy                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
