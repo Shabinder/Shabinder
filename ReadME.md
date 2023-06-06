@@ -38,11 +38,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 8 hrs 29 mins   ██████████████████████░░░   88.41 %
-Dart                   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-SqlDelight Migration   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Groovy                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-SqlDelight             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Kotlin         2 hrs 48 mins   ████████████████████████▓   98.96 %
+Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
