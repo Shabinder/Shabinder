@@ -38,9 +38,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin         2 hrs 48 mins   ████████████████████████▓   98.96 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
