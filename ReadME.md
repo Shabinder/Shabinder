@@ -38,11 +38,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           31 mins         █████████████████▒░░░░░░░   68.84 %
-Bash             9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Shell Script     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
