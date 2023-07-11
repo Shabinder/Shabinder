@@ -38,11 +38,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 24 mins         ██████████████████████▓░░   90.06 %
-XML                    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Text                   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Java                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
