@@ -38,7 +38,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       21 mins         █████████████████████▓░░░   87.05 %
+TOML         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+textmate     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
