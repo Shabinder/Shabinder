@@ -38,8 +38,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Swift               2 hrs 33 mins   ████████████████████████▓   98.74 %
-ObjectiveC          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Swift               2 hrs 37 mins   ████████████████████████▓   98.78 %
+ObjectiveC          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 XCodeProjectFiles   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 xconfig             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Assembly            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
