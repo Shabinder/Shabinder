@@ -38,7 +38,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           19 mins         ████████████████████████▓   98.84 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
