@@ -27,9 +27,9 @@
 </br>
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
-  🧔 My name is <b>Shabinder</b>. I am a 22 years old Seft-Taught Developer.<br/>
-  📚 I am in senior year of my Bachelor's Degree(B.Tech CSE).<br/>
-  💻 I am a <b>Native Android Developer</b>, Proficient in <b>Kotlin</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
+  🧔 My name is <b>Shabinder</b>. I am a 23 years old Seft-Taught Developer.<br/>
+  📚 I earned my Bachelor of Technology (B.Tech) degree in Computer Science and Engineering in 2023.<br/>
+  💻 I am a Mobile App Developer, proficient in <b>Kotlin Multiplatform</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
   🔗 <b>Contact Me At</b>: <br/>
