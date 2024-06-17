@@ -38,11 +38,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       2 hrs 50 mins   ███████████████████████░░   92.28 %
-Text         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-SqlDelight   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
