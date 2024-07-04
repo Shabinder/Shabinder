@@ -27,7 +27,7 @@
 </br>
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
-  🧔 My name is <b>Shabinder</b>. I am a 23 years old Seft-Taught Developer.<br/>
+  🧔 My name is <b>Shabinder</b>. I am a 23 years old Mobile Engineer.<br/>
   📚 I earned my Bachelor of Technology (B.Tech) degree in Computer Science and Engineering in 2023.<br/>
   💻 I am a Mobile App Developer, proficient in <b>Kotlin Multiplatform</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
@@ -35,11 +35,7 @@
   🔗 <b>Contact Me At</b>: <br/>
   <b><a href="mailto:dev.shabinder@gmail.com">Email: </>dev.shabinder@gmail.com .</a></p><br/>
   
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
-```txt
-Kotlin           2 mins          █████████████████████████   99.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
 
 <!--END_SECTION:waka-->
