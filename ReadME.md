@@ -27,9 +27,9 @@
 </br>
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
-  🧔 Hi, I'm <b>Shabinder</b>, a 23-year-old Software Engineer.<br/>
-  📚 I graduated with a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering in 2023.<br/>
-  💻 As a Mobile App Developer, I'm proficient in <b>Kotlin Multiplatform</b> and am also a passionate <b>GNU/Linux Enthusiast</b>!<br/>
+  🧔 Hi, I'm <b>Shabinder</b>, a Software Engineer passionate about building things, especially for mobile!<br/>
+  📚 I graduated with a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering.<br/>
+  💻 As a Mobile App Developer, I'm proficient in <b>Kotlin Multiplatform</b> <i>(Android & iOS)</i> and am also a passionate <b>GNU/Linux Enthusiast</b>!<br/>
 </p>
 <p>
   🔗 <b>Contact Me At</b>: <br/>
