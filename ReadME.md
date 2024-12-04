@@ -28,7 +28,7 @@
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
   🧔 Hi, I'm <b>Shabinder</b>, a Software Engineer passionate about building things, especially for mobile!<br/>
-  📚 I graduated with a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering, and currently have over 4+ years of experience.<br/>
+  📚 I hold a B.Tech in Computer Science and Engineering with over 4 years of professional experience.<br/>
   💻 As a Mobile App Developer, I'm proficient in <b>Kotlin Multiplatform</b> <i>(Android & iOS)</i> and am also a passionate <b>GNU/Linux Enthusiast</b>!<br/>
 </p>
 <p>
