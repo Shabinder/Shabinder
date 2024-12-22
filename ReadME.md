@@ -28,11 +28,11 @@
 <h3>⚡️ About ME ⚡️</h3><br/>
 <p>
   🧔 Hi, I'm <b>Shabinder</b>, a Software Engineer passionate about building things, especially for mobile!<br/>
-  📚 I hold a B.Tech in Computer Science and Engineering with over 4 years of professional experience.<br/>
+  📚 I have over 4 years of professional experience in software engineering, especially for mobile.<br/>
   💻 As a Mobile App Developer, I'm proficient in <b>Kotlin Multiplatform</b> <i>(Android & iOS)</i> and am also a passionate <b>GNU/Linux Enthusiast</b>!<br/>
 </p>
 <p>
-  🔗 <b>Contact Me At</b>: <br/>
+  🔗 <b>Reach out at</b>: <br/>
   <b><a href="mailto:contact@shabinder.in">Email: </>contact@shabinder.in</a></p><br/>
   
 <!--START_SECTION:waka-->
