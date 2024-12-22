@@ -20,7 +20,7 @@
 </p>
 <p>
   📣 Connect With Me :<br/>
-  <a href="mailto:dev.shabinder@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Shabinder%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:contact@shabinder.in?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Shabinder%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/mr.shabinder"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shabinder"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -33,7 +33,7 @@
 </p>
 <p>
   🔗 <b>Contact Me At</b>: <br/>
-  <b><a href="mailto:dev.shabinder@gmail.com">Email: </>dev.shabinder@gmail.com</a></p><br/>
+  <b><a href="mailto:contact@shabinder.in">Email: </>contact@shabinder.in</a></p><br/>
   
 <!--START_SECTION:waka-->
 
