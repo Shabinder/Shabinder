@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=Shabinder&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="430" height="190" src="https://github-readme-stats-fast.vercel.app/api?username=Shabinder&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true"/>
   <p >  
     <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
