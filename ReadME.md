@@ -25,14 +25,8 @@
   <a href="https://linkedin.com/in/shabinder"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 </br>
-<h3>⚡️ About ME ⚡️</h3><br/>
 <p>
-  🧔 Hi, I'm <b>Shabinder</b>, a Software Engineer passionate about building things, especially for mobile!<br/>
-  📚 I have over 4 years of professional experience in software engineering, and hold a B.Tech (CSE) degree.<br/>
-  💻 As a Mobile App Developer, I'm proficient in <b>Kotlin Multiplatform</b> <i>(Android & iOS)</i> and am also a passionate <b>GNU/Linux Enthusiast</b>!<br/>
-</p>
-<p>
-  🔗 <b>Reach out at</b>: <br/>
+  🔗 <b>Reach out at</b>:
   <b><a href="mailto:contact@shabinder.in">Email: </>contact@shabinder.in</a></p><br/>
   
 <!--START_SECTION:waka-->
